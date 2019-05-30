@@ -1,0 +1,13 @@
+https://devheat.tistory.com/category/알고리즘
+
+백준 온라인 저지 1427번 소트 인사이드 		https://devheat.tistory.com/5?category=663012
+백준 1181번 단어 정렬 							https://devheat.tistory.com/6?category=663012
+백준 온라인 저지 2108번 통계학 				https://devheat.tistory.com/7?category=663012
+버블 정렬(Bubble Sort) 					https://devheat.tistory.com/8?category=663010
+선택 정렬(Selection Sort) 			https://devheat.tistory.com/10?category=663010
+힙 정렬(HeapSort) 							https://devheat.tistory.com/13?category=663010
+삽입 정렬(Insertion Sort)				https://devheat.tistory.com/9?category=663010
+
+순열													http://www.eandbsoftware.org/print-all-permutations-of-a-given-string/
+														https://blog.naver.com/httts/221379716262
+														https://gorakgarak.tistory.com/523
