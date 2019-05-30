@@ -1,0 +1,19 @@
+private boolean getTargetFileList(String lNK_ITEM_ID, String TARGET_FILE_PARENT_PATH) {
+		File fileHome = new File(TARGET_FILE_PARENT_PATH);
+		scanDirectory(fileHome);
+		return true;
+		}
+		
+
+private void scanDirectory(File fileHome) {
+		String[] contents = fileHome.list();
+		
+		for(int i = 0; i < contents.length; i++){	
+			File child = new File(fileHome, contents[i]);
+			if(child.isDirectory()){
+				scanDirectory(child);
+			}else if(child.isFile() && child.getName().contains(LNK_ITEM_ID)){
+				addFileList(child);
+			}
+		}
+	}
