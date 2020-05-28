@@ -1,13 +1,13 @@
-https://devheat.tistory.com/category/¾Ë°í¸®Áò
+https://devheat.tistory.com/category/ì•Œê³ ë¦¬ì¦˜
 
-¹éÁØ ¿Â¶óÀÎ ÀúÁö 1427¹ø ¼ÒÆ® ÀÎ»çÀÌµå 		https://devheat.tistory.com/5?category=663012
-¹éÁØ 1181¹ø ´Ü¾î Á¤·Ä 							https://devheat.tistory.com/6?category=663012
-¹éÁØ ¿Â¶óÀÎ ÀúÁö 2108¹ø Åë°èÇĞ 				https://devheat.tistory.com/7?category=663012
-¹öºí Á¤·Ä(Bubble Sort) 					https://devheat.tistory.com/8?category=663010
-¼±ÅÃ Á¤·Ä(Selection Sort) 			https://devheat.tistory.com/10?category=663010
-Èü Á¤·Ä(HeapSort) 							https://devheat.tistory.com/13?category=663010
-»ğÀÔ Á¤·Ä(Insertion Sort)				https://devheat.tistory.com/9?category=663010
+ë°±ì¤€ ì˜¨ë¼ì¸ ì €ì§€ 1427ë²ˆ ì†ŒíŠ¸ ì¸ì‚¬ì´ë“œ 		https://devheat.tistory.com/5?category=663012
+ë°±ì¤€ 1181ë²ˆ ë‹¨ì–´ ì •ë ¬ 							https://devheat.tistory.com/6?category=663012
+ë°±ì¤€ ì˜¨ë¼ì¸ ì €ì§€ 2108ë²ˆ í†µê³„í•™ 				https://devheat.tistory.com/7?category=663012
+ë²„ë¸” ì •ë ¬(Bubble Sort) 					https://devheat.tistory.com/8?category=663010
+ì„ íƒ ì •ë ¬(Selection Sort) 			https://devheat.tistory.com/10?category=663010
+í™ ì •ë ¬(HeapSort) 							https://devheat.tistory.com/13?category=663010
+ì‚½ì… ì •ë ¬(Insertion Sort)				https://devheat.tistory.com/9?category=663010
 
-¼ø¿­													http://www.eandbsoftware.org/print-all-permutations-of-a-given-string/
-														https://blog.naver.com/httts/221379716262
-														https://gorakgarak.tistory.com/523
+ìˆœì—´													http://www.eandbsoftware.org/print-all-permutations-of-a-given-string/
+https://blog.naver.com/httts/221379716262
+https://gorakgarak.tistory.com/523
